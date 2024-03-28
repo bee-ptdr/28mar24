@@ -1,0 +1,44 @@
+{
+  "signUser": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": ""
+    },
+    {
+      "id": "126b",
+      "name": "Bijesh Patidar",
+      "email": "bijeshpatidar0000@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "5c0e",
+      "name": "Manish",
+      "email": "hello@gmail.com",
+      "password": "00000"
+    }
+  ],
+  "loginUser": [
+    {
+      "email": "",
+      "password": "",
+      "id": ""
+    },
+    {
+      "id": "0119",
+      "email": "bijeshpatidar0000@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8c9a",
+      "email": "hello@gmail.com",
+      "password": "00000"
+    },
+    {
+      "id": "fc0c",
+      "email": "hello@gmail.com",
+      "password": "00000"
+    }
+  ]
+}
